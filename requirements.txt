@@ -1,0 +1,11 @@
+requests==2.26.0
+beautifulsoup4==4.10.0
+
+How to Run
+
+Set up a Python environment, preferably using virtualenv or conda.
+
+Install dependencies:
+nginxpip install -r requirements.txt
+
+Run the runner.py script:
