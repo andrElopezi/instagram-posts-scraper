@@ -1,0 +1,3 @@
+# Input file with Instagram URLs
+https://www.instagram.com/p/DA9cFJ7RaaB/
+https://www.instagram.com/p/DA88nQ8STg7/
